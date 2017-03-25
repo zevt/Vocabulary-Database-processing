@@ -1,0 +1,18 @@
+D:\Coding\C Sharp\Vocabulary Trainer\Vocabulary Trainer\bin\Debug\Vocabulary Trainer.exe.config
+D:\Coding\C Sharp\Vocabulary Trainer\Vocabulary Trainer\obj\Debug\Vocabulary Trainer.csprojResolveAssemblyReference.cache
+D:\Coding\C Sharp\Vocabulary Trainer\Vocabulary Trainer\obj\Debug\Vocabulary_Trainer.MainForm.resources
+D:\Coding\C Sharp\Vocabulary Trainer\Vocabulary Trainer\obj\Debug\Vocabulary_Trainer.Properties.Resources.resources
+D:\Coding\C Sharp\Vocabulary Trainer\Vocabulary Trainer\obj\Debug\Vocabulary Trainer.csproj.GenerateResource.Cache
+D:\Coding\C Sharp\Vocabulary Trainer\Vocabulary Trainer\bin\Debug\Vocabulary Trainer.exe
+D:\Coding\C Sharp\Vocabulary Trainer\Vocabulary Trainer\bin\Debug\Vocabulary Trainer.pdb
+D:\Coding\C Sharp\Vocabulary Trainer\Vocabulary Trainer\obj\Debug\Vocabulary Trainer.exe
+D:\Coding\C Sharp\Vocabulary Trainer\Vocabulary Trainer\obj\Debug\Vocabulary Trainer.pdb
+D:\Coding\C Sharp\Vocabulary Database processing\Vocabulary Trainer\bin\Debug\Vocabulary Trainer.exe.config
+D:\Coding\C Sharp\Vocabulary Database processing\Vocabulary Trainer\obj\Debug\Vocabulary Trainer.exe
+D:\Coding\C Sharp\Vocabulary Database processing\Vocabulary Trainer\obj\Debug\Vocabulary Trainer.pdb
+D:\Coding\C Sharp\Vocabulary Database processing\Vocabulary Trainer\bin\Debug\Vocabulary Trainer.exe
+D:\Coding\C Sharp\Vocabulary Database processing\Vocabulary Trainer\bin\Debug\Vocabulary Trainer.pdb
+D:\Coding\C Sharp\Vocabulary Database processing\Vocabulary Trainer\obj\Debug\Vocabulary Trainer.csprojResolveAssemblyReference.cache
+D:\Coding\C Sharp\Vocabulary Database processing\Vocabulary Trainer\obj\Debug\Vocabulary_Database_Processing.MainForm.resources
+D:\Coding\C Sharp\Vocabulary Database processing\Vocabulary Trainer\obj\Debug\Vocabulary_Database_Processing.Properties.Resources.resources
+D:\Coding\C Sharp\Vocabulary Database processing\Vocabulary Trainer\obj\Debug\Vocabulary Trainer.csproj.GenerateResource.Cache

@@ -1,0 +1,2 @@
+D:\Coding\C Sharp\LD2Parser\Dictionary text file\Webster's New World Essential Vocabulary GRE SAT.txt
+D:\Coding\C Sharp\LD2Parser\Dictionary text file\Webster's New World Essential Vocabulary GRE SAT 1.xml
